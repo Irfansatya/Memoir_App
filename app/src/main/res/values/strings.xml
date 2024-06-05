@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memoir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_confirmation">Konfirmasi Penghapusan</string>
+    <string name="sureToDelete">Tindakan ini tidak dapat dibatalkan. Apakah Anda yakin ingin menghapus tugas ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="confirmation">Tugas Selesai</string>
+    <string name="sureToMarkAsComplete">Apakah Anda yakin ingin menandai tugas ini selesai?</string>
+</resources>

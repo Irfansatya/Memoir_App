@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="update" type="id" />
+    <item name="completedTasks" type="id" />
+    <item name="about" type="id" />
+    <item name="viewOnGithub" type="id" />
+</resources>
